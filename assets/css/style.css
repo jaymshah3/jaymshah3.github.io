@@ -94,8 +94,11 @@ body {
 	margin-bottom: 30px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
-.ptb {padding-top: 80px; padding-bottom: 80px;}
-
+.ptb {padding-top: 80px; padding-bottom: 2px;}
+.ptba{
+	padding-top:30px;
+	padding-bottom: 40px;
+}
 .clear {
 	clear: both;
 	display: block;
@@ -178,6 +181,9 @@ a:focus {
 	
 	background-color: rgb(251, 251, 251);
 
+}
+#resume{
+background-color:	rgb(251, 251, 251);
 }
 #portfolio{
 	background-color:  rgb(251, 251, 251);
