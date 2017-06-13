@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;;
 	/*font-weight: bold;*/
 
 }
@@ -35,9 +35,9 @@ h3{
 
 p { 
 	padding: 0; 
-	margin-bottom: 12px; 
-    font-family: 'Lato', sans-serif;
-	font-weight: 300;
+	margin-bottom: 8px; 
+    font-family: 'Nixie One', cursive;
+	font-weight: 450;
 	font-size: 18px; 
 	line-height: 28px;
 	color: #666; 
@@ -411,7 +411,7 @@ background-color:	rgb(251, 251, 251);
 
 .photo-grid figcaption p {
 	display: table-cell;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	position: relative;
 	top: -40px;
 	width: 400px;
