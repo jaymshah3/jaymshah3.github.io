@@ -179,26 +179,26 @@ a:focus {
 
 #about{
 	
-	background-color: rgb(251, 251, 251);
+	background-color: white;
 
 }
 #resume{
-background-color:	rgb(251, 251, 251);
+background-color:	white;
 }
 #portfolio{
-	background-color:  rgb(251, 251, 251);
+	background-color:  white;
 }
 #skills{
 	padding-top: 30px;
 	padding-bottom: 0px;
-	background-color: rgb(251, 251, 251);
+	background-color: white;
 }
 #work{
 	
-	background-color: rgb(251, 251, 251);
+	background-color: white;
 }
 #contact{
-	background-color: rgb(251, 251, 251);
+	background-color: white;
 }
 #h .logo {
 	margin-top: 30px;
